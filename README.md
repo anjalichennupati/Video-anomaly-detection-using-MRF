@@ -6,6 +6,7 @@
 This project focuses on video anomaly detection by integrating Markov Random Fields (MRFs) and autoencoders for improved accuracy and efficiency. The model leverages the spatial-temporal capabilities of MRFs to enhance anomaly differentiation in video content. By combining MRFs with autoencoders, the system generates a comprehensive video representation, improving anomaly detection performance.
 
 The approach is tested on the AVENUE dataset, demonstrating a 60% reduction in computation time compared to conventional frame extraction methods. 
+Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2023.
 
 ---
 
