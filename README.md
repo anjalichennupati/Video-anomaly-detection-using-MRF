@@ -1,5 +1,5 @@
 
-# Welding Robot using MATLAB
+# Video Anomaly Detection using MRF
 
 # Overview
 
