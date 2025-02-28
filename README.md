@@ -8,6 +8,8 @@ This project focuses on video anomaly detection by integrating Markov Random Fie
 The approach is tested on the AVENUE dataset, demonstrating a 60% reduction in computation time compared to conventional frame extraction methods. 
 Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2023.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 ---
 
 
